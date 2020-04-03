@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hatching Yellow
+  m_Shader: {fileID: -6465566751694194690, guid: 9fc3561a0094a0a4c8da827d320733df,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 44deec01d3ffd5c4db6163fcc2225004, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_28A2649E_Out_0:
+        m_Texture: {fileID: 2800000, guid: 55b518850bc0844779ec555e779a524b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TonalArtMap:
+        m_Texture: {fileID: 18700000, guid: b374824126d87d944889269255dd40cf, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B7AA53A7: 0.5
+    - _ColorOffset: 0.57
+    - _ColorSpread: 0.5
+    - _HatchingRotation: 0
+    - _HatchingSpread: 0.203
+    - _HatchingStrength: 0.457
+    - _HatchingTint: 0.94
+    - _TextureStrength: 0.561
+    - _TextureTiling: 0.025
+    - _Tiling: 3
+    m_Colors:
+    - _AlbedoColor: {r: 1, g: 0.96436894, b: 0.35294116, a: 0}
+    - _ShadowColor: {r: 0.094631575, g: 0.15873691, b: 0.319, a: 0}

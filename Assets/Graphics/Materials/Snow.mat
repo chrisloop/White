@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snow
+  m_Shader: {fileID: -6465566751694194690, guid: 69fd6a8ef8d20464aaf20690752dc18c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_62E371F5_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: 55b518850bc0844779ec555e779a524b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TonalArtMap:
+        m_Texture: {fileID: 18700000, guid: ba71f74f0693b46df9d325af265c578f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4F76E2B4: 0.412
+    - Vector1_92C39636: 1
+    - _ColorOffset: 0.34
+    - _HatchingRotation: 0
+    - _HatchingSpread: 0.5
+    - _HatchingStrength: 0.5
+    - _HatchingTint: 0.5
+    - _TextureStrength: 0.5
+    - _TextureTiling: 0.1
+    - _Tiling: 1
+    m_Colors:
+    - _AlbedoColor: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 0}
